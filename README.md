@@ -1,5 +1,5 @@
 # MIT Big-Data program
-This is a project of mine followed with Dr. Fan Zhang from MIT LIGO laboratory to integrate the application of CNN with Docker and Cassandra.  
+This is a project of mine followed with Dr. Fan Zhang from MIT IBM Watson AI Lab to integrate the application of CNN with Docker and Cassandra.  
 ![Image text](https://raw.githubusercontent.com/BlarkLee/Big-data/master/docker-.jpg)
 ![Image text](https://raw.githubusercontent.com/BlarkLee/Big-data/master/Cassandra-.png)
 ![Image text](https://raw.githubusercontent.com/BlarkLee/Big-data/master/tensorflow-.jpg)
